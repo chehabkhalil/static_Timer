@@ -1,0 +1,27 @@
+
+.indication{
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size:30px;
+    font-weight:50px;
+    display: flex;
+    justify-content: center; 
+    color: darkgray;
+    margin-top: -200px;
+    margin-right:50px;
+    margin-left: 70px
+}
+.H{
+    float: left;
+    margin-right:50px;
+   
+}
+.M{
+    float: left;
+    margin-right:50px;
+    
+}
+.S{
+    float: left;
+    
+}
